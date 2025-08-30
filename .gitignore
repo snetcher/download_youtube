@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Gemini CLI metadata
+.gemini/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files from script
+tmp/
