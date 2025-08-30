@@ -29,10 +29,10 @@ The script is Windows 11 ready and handles file names safely, avoiding issues wi
 
 1. Install Python 3.10+ from [python.org](https://www.python.org/downloads/windows/) and ensure it is added to `PATH`.
 
-2. Install dependencies:
+2. Install dependencies from `requirements.txt`:
 
 ```bash
-pip install pytubefix
+pip install -r requirements.txt
 ```
 
 3. Install `ffmpeg` for Windows:
